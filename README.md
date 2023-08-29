@@ -1,9 +1,7 @@
-# Build Tools to Automate Stuff in Python
+# Automate Stuff in Python
+ Amazing Python Projects for Python beginners to build Tools 
 
-6 Amazing Python Projects for Python beginners to build Tools 
-
-Python Libraries that you'd end up using in these projects
-
+Python Libraries that you'r gonna use are :
 * PIL (Pillow)
 * requests
 * BeautifulSoup
@@ -13,5 +11,4 @@ Python Libraries that you'd end up using in these projects
 * gensim (Summarizer) 
 
 
-Note: Google has changed the way less secure apps are handeld. It's critical for the Email Automation project in the course. I'm exploring possible alternatives for that. 
 
